@@ -6,3 +6,4 @@ public class summ{
 	System.out.println(c);
 	}
 }
+
